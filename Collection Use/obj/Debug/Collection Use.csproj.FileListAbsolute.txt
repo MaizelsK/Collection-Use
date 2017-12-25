@@ -1,0 +1,7 @@
+C:\Users\MAIZELS\source\repos\Collection Use\Collection Use\bin\Debug\Collection Use.exe.config
+C:\Users\MAIZELS\source\repos\Collection Use\Collection Use\bin\Debug\Collection Use.exe
+C:\Users\MAIZELS\source\repos\Collection Use\Collection Use\bin\Debug\Collection Use.pdb
+C:\Users\MAIZELS\source\repos\Collection Use\Collection Use\obj\Debug\Collection Use.csprojResolveAssemblyReference.cache
+C:\Users\MAIZELS\source\repos\Collection Use\Collection Use\obj\Debug\Collection Use.csproj.CoreCompileInputs.cache
+C:\Users\MAIZELS\source\repos\Collection Use\Collection Use\obj\Debug\Collection Use.exe
+C:\Users\MAIZELS\source\repos\Collection Use\Collection Use\obj\Debug\Collection Use.pdb
